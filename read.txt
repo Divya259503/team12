@@ -1,1 +1,6 @@
 This is for practice complete source code management
+it icludes basic adding files
+commits
+and then branches
+and open and close pull requests
+then then complete
